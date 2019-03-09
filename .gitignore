@@ -34,3 +34,16 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# ===================== #
+# Project Specific List #
+# ===================== #
+artifacts/
+Assets/ThirdParty/
+Assets/ThirdParty.meta
+Assets/TextMesh Pro.meta
+Assets/TextMesh Pro/
+Assets/HoloToolkit-Examples/
+Assets/HoloToolkit-Preview/
+Assets/HoloToolkit-Examples.meta
+Assets/HoloToolkit-Preview.meta
